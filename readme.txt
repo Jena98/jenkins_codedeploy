@@ -4,3 +4,5 @@ go mod tidy
 
 # build 명령어
 go build -o app
+
+# cicd-test
